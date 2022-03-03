@@ -55,7 +55,7 @@ Base Line에 대한 이해를 제대로 숙지한뒤, Base Line에서 우리가 
 - 개발 환경
   - Jupyter Notebook
 - 기술 및 라이브러리
-  - Python, PyTorch(torchvision), Pandas, Matplotli, Wandb
+  - Python, PyTorch(torchvision), Pandas, Matplotlib, Wandb
 
 ## 5. 배운점
 - 이론으로만 배웠던 CNN기반의 다양한 모델들을 직접 적용해보면서 각 모델들의 구조에 대해서 파악할 수 있었고, 직접 눈으로 loss나 accuracy가 떨어지는걸 보면서 적합한 모델을 찾을 수 있었습니다.
