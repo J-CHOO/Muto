@@ -1,3 +1,4 @@
+# 흉부 CT 코로나 감염 여부 분류
 흉부 CT 이미지를 이용해 코로나19 감염 여부를 이진 분류하는 과제 (데이터는 저작권상 공개하지 않습니다.)
   - 이어드림스쿨 AI과정 중에 진행한 프로젝트로, [AI connect](https://www.aiconnect.kr/main/competition/detail/204/task/212/assignmentinfo)플랫폼에서 진행한 대회입니다.
 
