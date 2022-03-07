@@ -60,6 +60,8 @@
 - ICLR 2020에서 구글 리서치 팀이 새로운 pre-training 기법을 적용한 모델인 Electra모델에 대해서 알게 되었고, 기존 BERT나 RoBERT보다 데이터셋이 적을때 성능이 더 잘 나오게 된다는걸 확인하였습니다.
 
 - 하이퍼 파라미터 조정만으로도 성능이 크게 향상이 될 수 있다는 것을 이번 과제를 통해서 더 체감하게 되었습니다.
+![image](https://user-images.githubusercontent.com/95010590/156971243-336fee85-83d0-42c5-b21a-6d7a97917104.png)
+![image](https://user-images.githubusercontent.com/95010590/156971258-cd9cccad-33a2-4e43-b2cc-7a52aeb66de7.png)
 
 ### 주최
 중소벤처기업진흥공단
