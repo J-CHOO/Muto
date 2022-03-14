@@ -68,6 +68,7 @@ Base Line에 대한 이해를 제대로 숙지한뒤, Base Line에서 우리가 
 - Augmentation기법중 Cutout기법(이미지에 일부를 0으로 채워 빈공간을 만듦)에 대해 처음 알게되었고, 직접 사용해보면서 성능향상에 도움이 된다는걸 보았습니다.
 
 - Epoch, Early stop, Learning rate, Input_size등 조정해보면서 딥러닝 모델 성능향상에 중요한 하이퍼파라미터가 무엇인지 알게되었습니다.
+- Augmentation과 하이퍼파라미터 적용을 하였을 때, Resnet이나 Densenet같은 모델보다 ‘VGG-16’이 성능이 더 잘나온이유가 다른 모델의 구조를 보면 VGG보다 망의 깊이가 더 깊은것으로 볼 수 있었는데, 망의 구조가 너무 깊게 되면 gradient vanishing/exploding 또는 degradation이 발생하게 되기 때문에 아마 성능이 더 개선이 되지 않았을 것이라고 생각하게 되었습니다.
 
 ### 주최
 중소벤처기업진흥공단
